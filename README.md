@@ -7,7 +7,7 @@ git clone git@github.com:vkouk/katas.git katas
 cd katas
 cd rpn
 pytest
-cd .. && cd weather
+cd .. && cd data_munging
 pytest
 ```
 
